@@ -1,5 +1,4 @@
 # MachineLearning4Science
----
 
 My code for Machine learning for science (ML4SCI) hackathon for years [2020](https://ml4sci.org/activities/hackathon2020.html) and [2021](https://github.com/ML4SCI/ML4SCIHackathon)
 
